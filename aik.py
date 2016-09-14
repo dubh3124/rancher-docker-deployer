@@ -1,0 +1,2 @@
+ukey = 'YOUR_ENV_ACCESS_KEY'
+pkey = 'YOUR_ENV_SECRET_KEY'
